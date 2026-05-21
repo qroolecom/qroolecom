@@ -23,7 +23,7 @@
 | Project | Description |
 |---------|-------------|
 | **[QR Menu](https://qroole.com)** | QR Menu Saas Platform |
-| **[QR Code Reader]((https://qroole.com/qr-okuyucu)** | Browser extension with 4 scan modes — camera, page scan, image upload, right-click. 100% local, no data collection. |
+| **[QR Code Reader](https://qroole.com/qr-okuyucu)** | Browser extension with 4 scan modes — camera, page scan, image upload, right-click. 100% local, no data collection. |
 | **[QR Code Generator](https://qroole.com/qr-kod-olusturucu)** | Online QR code creator with custom styling |
 | **[Barcode Generator](https://qroole.com/barkod-olusturucu)** | Multi-format barcode tool |
 | **[qr-security-guide](./qr-security-guide)** | Open guide to QR code security risks, attack patterns, and detection code |
